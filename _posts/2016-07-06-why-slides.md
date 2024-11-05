@@ -5,8 +5,9 @@ permalink: /why/
 background: '#0a5'
 
 slides:
- - title: Why use webjeda slides?
-   slide-data: Webjeda slides is built using revealjs. The idea is to keep all the slideshows in one place as posts. All your presentations can be accessed from one place!
+ - title: TIPOS DE ERRORES
+   slide-data: ERROR DE BIT, cuando uno o mas bits cambian de valor durante la transmision!
+   slide-data: ERRORES POR RAFAGAS, cuando varios bits consecutivos son afectados
     
  - title: Another reason to use webjeda slides    
    slide-data: It is very easy to apply different themes, background colors and images to slides.
