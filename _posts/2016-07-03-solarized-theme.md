@@ -17,9 +17,9 @@ slides:
  - title: Slide 3
    slide-data: This is third slide
 
-   title: slide 4
-   slide-data: this is four slide
-
+- title: slide 4
+slide-data: four slide
+   
 ---
 
 {% for slide in page.slides %}
