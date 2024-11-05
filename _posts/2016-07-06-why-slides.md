@@ -10,7 +10,7 @@ slides:
     
 
  - title: METODOS DE DETECCION DE ERRORES
-   slide-data: 
+   slide-data: PARIDAD, añador un bit para que el numero total de bits 1 sea par o impar, CHEQUEO DE REDUNDANCIA CICLICA CRC, usa divisiones polinomicas para detectar errores en bloques de datos, siendo muy eficaz en la deteccion de errores multiples
 
    background: '#05a'
    
