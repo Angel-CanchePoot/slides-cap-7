@@ -7,6 +7,7 @@ theme: solarized
 slides:
  - title: Slide 1
    slide-data: This is first slide
+
  
      
  - title: Slide 2
@@ -15,6 +16,9 @@ slides:
    
  - title: Slide 3
    slide-data: This is third slide
+
+   title: slide 4
+   slide-data: this is four slide
 
 ---
 
