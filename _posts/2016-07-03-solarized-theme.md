@@ -7,7 +7,6 @@ theme: solarized
 slides:
  - title: TIPOS DE ERROES
    slide-data: ERRORES DE BITS, cuando uno o mas bits cabian su valor durantela transmision
-   ERRORES POR RAFAGAS,  cuando varios bits consecutivos son ad¿fectados
 
  
      
