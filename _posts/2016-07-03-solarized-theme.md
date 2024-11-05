@@ -5,8 +5,9 @@ permalink: /solarized/
 theme: solarized
  
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: TIPOS DE ERROES
+   slide-data: ERRORES DE BITS, cuando uno o mas bits cabian su valor durantela transmision
+   ERRORES POR RAFAGAS,  cuando varios bits consecutivos son ad¿fectados
 
  
      
