@@ -9,8 +9,10 @@ slides:
    slide-data: ERROR DE BIT, cuando uno o mas bits cambian de valor durante la transmision, Errores por ráfagas, Cuando varios bits consecutivos son afectados.
     
 
- - title: Another reason to use webjeda slides    
-   slide-data: It is very easy to apply different themes, background colors and images to slides.
+ - title: METODOS DE DETECCION DE ERRORES
+   slide-data: Paridad Añadir un bit extra para que el número total de bits "1" sea par o impar.
+Chequeo de redundancia cíclica (CRC) Usa divisiones polinómicas para detectar errores en bloques de datos, siendo muy eficaz en la detección de errores múltiples.
+Checksum Suma los valores de segmentos de datos y envía el resultado junto con los datos.
    background: '#05a'
    
  - title: Is it free to use?
