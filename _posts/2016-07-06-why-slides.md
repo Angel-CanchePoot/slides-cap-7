@@ -6,9 +6,9 @@ background: '#0a5'
 
 slides:
  - title: TIPOS DE ERRORES
-   slide-data: ERROR DE BIT, cuando uno o mas bits cambian de valor durante la transmision!
-   slide-data: ERRORES POR RAFAGAS, cuando varios bits consecutivos son afectados
+   slide-data: ERROR DE BIT, cuando uno o mas bits cambian de valor durante la transmision, Errores por ráfagas, Cuando varios bits consecutivos son afectados.
     
+
  - title: Another reason to use webjeda slides    
    slide-data: It is very easy to apply different themes, background colors and images to slides.
    background: '#05a'
