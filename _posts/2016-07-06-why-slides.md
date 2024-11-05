@@ -1,5 +1,5 @@
 ---
-title: Why WebJeda Slides?
+title: CAPITULO 10
 layout: post
 permalink: /why/
 background: '#0a5'
