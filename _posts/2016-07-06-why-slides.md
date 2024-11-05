@@ -14,8 +14,8 @@ slides:
 
    background: '#05a'
    
- - title: Is it free to use?
-   slide-data: Absolutely. All credits should go to Hakim El Hattab for creating revealjs.
+ - title: METODOS DE CORRECCION DE ERRORES
+   slide-data: CORRECCION DE ERRORES HACIA ADELANTE FEC, permite corregir errores sin retransmision, usando redundancia en los datos, CODIGOS DE HAMMING, permite detectar y corregir errores de un solo bit mediante el uso de bits de paridad en posiciones especificas
    background: '#e74c3c'
 ---
 
